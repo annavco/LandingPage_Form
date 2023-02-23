@@ -1,0 +1,11 @@
+{
+  "version": 3,
+  "sourceRoot": "",
+  "sources": [
+    "../scss/others/page.scss",
+    "../scss/others/colors.scss"
+  ],
+  "names": [],
+  "mappings": "AAAA;EACE;EACA;;;AAEF;EACE;EACA;EACA;EACA;EACA;;;AAEF;EACE,kBCZQ;EDaR;EACA;;;AAEF;EACE;;;AAEF;EACE,OCnBS;EDoBT;;;AAEF;EACE;EACA",
+  "file": "style.css"
+}
